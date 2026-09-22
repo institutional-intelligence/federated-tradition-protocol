@@ -166,3 +166,11 @@ The protocol, terminology, templates, implementation patterns, and licensing mod
 FTP is a project of **Institutional Intelligence**, an open laboratory for studying how ideas become durable structures.
 
 The broader project focuses on institutional architecture: how communities preserve knowledge, coordinate people, distribute authority, reproduce themselves, survive leadership transitions, adapt to local conditions, and remain coherent across time.
+
+## License
+
+The Federated Tradition Protocol and its reference implementations are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+
+You may share and adapt this material, including for commercial purposes, provided that appropriate attribution is given and adaptations are distributed under the same or a compatible license.
+
+See the [LICENSE](./LICENSE) file for the full license terms.
