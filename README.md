@@ -47,6 +47,16 @@ An implementation may define its own:
 
 Implementations may adopt, modify, extend, or omit components as appropriate.
 
+## Core Specification
+
+The current religion-neutral specification is:
+
+**[Federated Tradition Protocol — Religion-Neutral Core v0.1](./federated-tradition-protocol-core-v0.1.md)**
+
+Core v0.1 defines the institutional primitives and minimum compatibility requirements for FTP implementations.
+
+It specifies governance, functional authority, accountability, institutional memory, right of exit, due process, conflict resolution, succession, federation, and local adaptation while leaving substantive worldview and traditional content to individual implementations.
+
 ## Reference Implementation
 
 The first planned reference implementation is the **European Federated Tradition (EFT)**, an application of the protocol to the problem of building decentralized, locally adaptable, and institutionally durable European traditional communities.
