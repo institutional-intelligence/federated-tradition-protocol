@@ -26,7 +26,7 @@ The original April 2026 source document is preserved here:
 
 **[Kitsune-Kyo.pdf](source/Kitsune-Kyo.pdf)**
 
-The source document establishes much of the tradition's original religious content, including:
+The source document establishes much of the tradition's original religious content.
 ## FTP Institutionalization
 
 The original Kitsune-Kyō material provides mythology, theology, symbolism, ritual, and religious identity.
