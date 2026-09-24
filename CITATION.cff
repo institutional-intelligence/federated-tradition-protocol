@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+
+title: "Federated Tradition Protocol"
+
+authors:
+  - family-names: "Bullard"
+    given-names: "Todd"
+    orcid: "https://orcid.org/0009-0002-8892-1199"
+
+abstract: >-
+  An open, religion-neutral framework for designing federated traditions
+  with explicit institutional structure, governance, local autonomy,
+  continuity, and implementation rules.
+
+license: "CC-BY-SA-4.0"
+
+repository-code: "https://github.com/institutional-intelligence/federated-tradition-protocol"
