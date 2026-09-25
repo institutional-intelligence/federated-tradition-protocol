@@ -1,5 +1,7 @@
 # Federated Tradition Protocol
 
+[![DOI](https://zenodo.org/badge/1381550019.svg)](https://doi.org/10.5281/zenodo.22948840)
+
 **An open, religion-neutral protocol for designing durable, federated traditions and institutions.**
 
 The **Federated Tradition Protocol (FTP)** is a framework for turning shared ideas, practices, identities, and values into institutions capable of persisting beyond their founders.
